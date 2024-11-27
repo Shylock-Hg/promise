@@ -1,4 +1,4 @@
-use promise::promise;
+use promise_unsafe::promise;
 
 fn main() {
     let mut v = 3;

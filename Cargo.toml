@@ -1,5 +1,5 @@
 [package]
-name = "promise"
+name = "promise-unsafe"
 version = "0.1.0"
 edition = "2021"
 description = "Something help you avoid unsafe:)"

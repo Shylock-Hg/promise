@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "promise"
+name = "promise-unsafe"
 version = "0.1.0"
