@@ -2,5 +2,6 @@
 name = "promise"
 version = "0.1.0"
 edition = "2021"
-
-[dependencies]
+description = "Something help you avoid unsafe:)"
+license = "MIT"
+repository = "https://github.com/Shylock-Hg/promise.git"
